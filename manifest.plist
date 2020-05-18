@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://image.fmnd.chinafamilymart.com.cn:10101/belray/files/images/BelRay_iOS.ipa</string>
+					<string>https://github.com/liusongboyy/ios_download/blob/master/BelRay_iOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://image.fmnd.chinafamilymart.com.cn:10101/belray/files/images/belray_ios_1.png</string>
+					<string>https://github.com/liusongboyy/ios_download/blob/master/belray_ios_1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://image.fmnd.chinafamilymart.com.cn:10101/belray/files/images/belray_ios_2.png</string>
+					<string>https://github.com/liusongboyy/ios_download/blob/master/belray_ios_2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
